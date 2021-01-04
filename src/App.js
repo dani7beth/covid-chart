@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import CovidChart from './CovidChart';
+import Example from './RechartDemo';
 
 function App() {
   return (
